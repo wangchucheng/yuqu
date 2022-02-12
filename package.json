@@ -1,0 +1,16 @@
+{
+  "name": "yuqu",
+  "version": "0.1.0-alpha",
+  "description": "Prefetch pages before the user clicks and adapt to various frameworks swiftly",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangchucheng/yuqu.git"
+  },
+  "author": "WANG Chucheng",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wangchucheng/yuqu/issues"
+  },
+  "homepage": "https://github.com/wangchucheng/yuqu#readme"
+}
